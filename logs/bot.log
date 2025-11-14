@@ -1,0 +1,19 @@
+2025-11-14 13:00:08 [INFO] __main__: Запуск бота The Pops
+2025-11-14 13:00:08 [INFO] __main__: База данных инициализирована
+2025-11-14 13:00:08 [INFO] __main__: Старт long polling
+2025-11-14 13:00:08 [INFO] aiogram.dispatcher: Start polling
+2025-11-14 13:00:09 [INFO] aiogram.dispatcher: Run polling for bot @test_lerk_bot id=7730825186 - 'Тестовый ЛЕРК'
+2025-11-14 13:00:18 [INFO] bot.handlers.menu: Пользователь 758543582 открыл раздел 'Бонусная система'
+2025-11-14 13:00:19 [INFO] aiogram.event: Update id=979208924 is handled. Duration 630 ms by bot id=7730825186
+2025-11-14 13:00:27 [INFO] bot.handlers.menu: Пользователь 758543582 вернулся в главное меню
+2025-11-14 13:00:28 [INFO] aiogram.event: Update id=979208925 is handled. Duration 307 ms by bot id=7730825186
+2025-11-14 13:00:34 [INFO] bot.handlers.start: Пользователь 758543582 отправил /start
+2025-11-14 13:00:34 [INFO] aiogram.event: Update id=979208926 is handled. Duration 232 ms by bot id=7730825186
+2025-11-14 13:00:35 [INFO] bot.handlers.menu: Пользователь 758543582 открыл раздел 'Наши соцсети'
+2025-11-14 13:00:36 [INFO] aiogram.event: Update id=979208927 is handled. Duration 164 ms by bot id=7730825186
+2025-11-14 13:00:37 [INFO] bot.handlers.menu: Пользователь 758543582 открыл раздел 'Бонусная система'
+2025-11-14 13:00:38 [INFO] aiogram.event: Update id=979208928 is handled. Duration 124 ms by bot id=7730825186
+2025-11-14 13:01:29 [INFO] aiogram.dispatcher: Polling stopped
+2025-11-14 13:01:29 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-11-14 13:01:29 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7730825186)
+2025-11-14 13:01:29 [INFO] aiogram.dispatcher: Polling stopped for bot @test_lerk_bot id=7730825186 - 'Тестовый ЛЕРК'
